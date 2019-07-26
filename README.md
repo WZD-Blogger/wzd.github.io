@@ -1,23 +1,4 @@
-##欢迎来到我的博客
-您可以使用[GitHub上的编辑器]（https://github.com/WZD-Blogger/wzd.github.io/edit/master/README.md）在Markdown文件中维护和预览您网站的内容。
+欢迎来到我的博客
+宿雨将歇，蝉鸣渐止，疏窗独坐，一盏清茗相伴。点检卷中方物，寻觅那些描写良夜的诗句，读罢仿佛让人置身于几百年前的夜晚。九州一色还是李白的月光，人间烟火忽明忽灭，我只能静静的守望，无法追寻那确切的一盏。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+你可知天上星光走过了几万年才为你我今日所见，在这漫长的时光里，又有多少星辰在泯灭，在新生。唯此刻只想以这杯中清茗，敬这辽阔之世，敬这小酌之时。
